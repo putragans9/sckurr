@@ -1,0 +1,21 @@
+CARA INSTALL YT KurrXD
+
+
+setelah kalian extract pindahin ke tampilan utama zarchiver lalu buka termux selesai
+
+cara run termux
+
+pkg update
+
+pkg upgrade
+
+pkg install nodejs
+
+pkg install ffmpeg
+
+pkg install libwebp
+
+
+node .
+
+SCAN
